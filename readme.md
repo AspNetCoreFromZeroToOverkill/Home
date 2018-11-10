@@ -16,4 +16,3 @@ For a more detailed intro check out [this post](https://blog.codingmilitia.com/2
 ## Various links
 - [Blog posts](https://blog.codingmilitia.com/category/fromzerotooverkill/) - lists the posts on the Coding Militia blog, filtered just for this series
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLN0oN9Azm_MMAjk3nhRnmHdr1l0160Dhs) - playlist on the Coding Militia channel with all the videos recorded for this series
-- [Discord server](https://discord.gg/kHWt9gj) - to make it easier for people to ask questions, provide feedback or just hang around
