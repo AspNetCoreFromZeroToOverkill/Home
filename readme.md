@@ -19,3 +19,6 @@ For a more detailed intro check out [this post](https://blog.codingmilitia.com/2
 ## Various links
 - [Blog posts](https://blog.codingmilitia.com/category/fromzerotooverkill/) - lists the posts on the Coding Militia blog, filtered just for this series
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLN0oN9Azm_MMAjk3nhRnmHdr1l0160Dhs) - playlist on the Coding Militia channel with all the videos recorded for this series
+
+## Planning
+You can check out the (not set in stone) planning of the series [here](https://github.com/AspNetCoreFromZeroToOverkill/Home/projects/1).
