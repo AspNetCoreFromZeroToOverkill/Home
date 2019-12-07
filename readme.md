@@ -10,16 +10,20 @@ The end result will probably be on the over-engineered side (hence the “overki
 
 For a more detailed intro check out [this post](https://blog.codingmilitia.com/2018/10/02/aspnet-000-from-zero-to-overkill-intro).
 
-## Repositories:
+## Repositories
+
 - [GroupManagement](https://github.com/AspNetCoreFromZeroToOverkill/GroupManagement) - repository containing the component responsible for everything group related, from creating and editing its details, associating users, managing players, etc.
 - [WebFrontend](https://github.com/AspNetCoreFromZeroToOverkill/WebFrontend) - repository containing the application's frontend components, namely a Vue.js single page application and an ASP.NET Core backend for frontend, acting as a facade between the SPA and the backend services.
 - [Auth](https://github.com/AspNetCoreFromZeroToOverkill/Auth) - repository containing the authentication logic, centralized in a standalone application. It's an OpendID Connect provider, allowing for the web frontend to delegate the user authentication to it (and, if needed, also other applications, for instance, mobile implementations).
 - [Deployment](https://github.com/AspNetCoreFromZeroToOverkill/Deployment) - General deployment tooling for the application.
 - [EpisodeNotes](https://github.com/AspNetCoreFromZeroToOverkill/EpisodeNotes) - repository containing episode notes in presentation format, used at the start of the videos to introduce what we'll be doing in each one.
+- [Tools](https://github.com/AspNetCoreFromZeroToOverkill/Tools) - repository containing some tooling to help out while developing the application - examples: Git helpers, scripts to start dependencies and the projects, ...
 
 ## Various links
+
 - [Blog posts](https://blog.codingmilitia.com/category/fromzerotooverkill/) - lists the posts on the Coding Militia blog, filtered just for this series
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLN0oN9Azm_MMAjk3nhRnmHdr1l0160Dhs) - playlist on the Coding Militia channel with all the videos recorded for this series
 
 ## Planning
+
 You can check out the (not set in stone) planning of the series [here](https://github.com/AspNetCoreFromZeroToOverkill/Home/projects/1).
