@@ -1,5 +1,13 @@
 # ASP.NET Core: From Zero to overkill
 
+---
+
+## Important note
+
+Series development was halted. For more info, check out [this blog post](https://blog.codingmilitia.com/2020/09/21/shaking-things-up-a-bit-aspf02o-outro/).
+
+---
+
 ![logo](https://github.com/AspNetCoreFromZeroToOverkill/Home/blob/master/assets/aspnet-core-from-zero-to-overkill.jpg)
 
 This is the home repository for the series of videos/posts I'll be making on ASP.NET Core and friends.
